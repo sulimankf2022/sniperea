@@ -1,0 +1,1 @@
+// Your content for SignalGeneration.mqh should go here
